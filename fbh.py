@@ -43,7 +43,7 @@ os.system('clear')
 
 
 
-print("                                   Edmark.net ")
+print("                                   T-REX ID")
 print("                              Facebook Bruteforce")
 print("                                  Version: V3")
 print("                         Created by: MR.T-REX TEAM")
